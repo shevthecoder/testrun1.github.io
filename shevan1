@@ -1,0 +1,335 @@
+<html>
+<style>
+
+body{
+
+    background-image:url("ttt.png");
+   background-repeat: no-repeat;
+}
+    
+
+
+img{
+    width:200px;
+    height:200px;
+    padding:40px;
+    scrollbar-gutter: 80;
+    flex-wrap:wrap;
+    transition:1s;
+}
+
+h1 {
+    font-family:ARIAL;
+    margin:25PX;
+    font-size:25px;
+    
+
+}
+a {
+    margin:60px;
+    padding:75px;
+    list-style-type:none;
+    color:white;
+    text-decoration:none;
+    background-color: rgb(168, 254, 230);
+}
+
+img:hover {
+    cursor:pointer;
+    opacity:40%;
+    transform:scale(1.2);
+    
+}
+
+footer{
+    background-color:rgb(60, 204, 229);
+    width:1000px;
+    padding:20px;
+    
+}
+
+</style>
+
+<body>
+
+<nav>
+<ul>
+<a href=" #home">home</a>
+<a href=" #home">home</a>
+<a href=" #home">home</a>
+<a href=" #home">home</a>
+
+
+</ul>
+
+
+
+
+
+
+
+
+</nav>
+
+
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    <head>
+        <h1> MENU</h1>
+<div class="container">
+    <img src="1.jpg" alt="">
+    <img src="3.jpg" alt="">
+    <img src="1.jpg" alt="">
+    <img src="3.jpg" alt="">
+    <img src="1.jpg" alt="">
+    <img src="3.jpg" alt="">
+    <img src="1.jpg" alt="">
+    <img src="3.jpg" alt="">
+    <img src="1.jpg" alt="">
+    <img src="3.jpg" alt="">
+
+</div>
+
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+<br>
+
+<br>
+
+<br>
+
+
+<br>
+<br>
+<br>
+
+
+
+
+
+<br>
+
+<br>
+
+<br>
+
+<br>
+
+<footer>
+<article>
+
+    <center> 
+   @allrightsreserved.
+        <h1> hello world ! welcome </h1></center>
+    </footer>
+</body>
+</html>
